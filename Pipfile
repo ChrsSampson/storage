@@ -8,6 +8,8 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 psycopg2 = "*"
+flask-restful = "*"
+rich = "*"
 
 [dev-packages]
 
